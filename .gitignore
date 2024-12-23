@@ -1,0 +1,12 @@
+conteudo_extraido.txt
+discloud.config
+extract-bot-A.bat
+extract-bot-B.bat
+extract-bot-C.bat
+
+bots/BotA/config.json
+bots/BotB/config.json
+bots/BotC/config.json
+
+package-lock.json
+node_modules
