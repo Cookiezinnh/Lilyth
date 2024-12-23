@@ -261,6 +261,4 @@ module.exports = {
     checkmark: '<:checkmark:1309223764990365756>',
     splash: '<:splash:1309228011823829114>', //       
     x: '<:x:1309228824793317438>',
-
-    // Old Shit
 };
