@@ -1,11 +1,11 @@
 module.exports = {
     // Cargos Comuns
-    NEW_MEMBER_ROLE: '1310265181523411024', // Cargo para novos membros
-    MUTED_ROLE: '1315728178416975993',
-    SOFTLOCKED_ROLE: '1315728731217723432',
+    NEW_MEMBER_ROLE: '', // Cargo para novos membros
+    MUTED_ROLE: '',
+    SOFTLOCKED_ROLE: '',
 
     // Gerencia do Servidor
-    ADMIN: '1310266314832482364',
-    MODERATOR: '1310266674204774400',
-    HELPER: '1310267346904154172'
+    ADMIN: '',
+    MODERATOR: '',
+    HELPER: ''
 };
